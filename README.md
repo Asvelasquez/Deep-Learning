@@ -6,9 +6,9 @@ Este repositorio contiene una colección de prácticas, ejercicios y proyectos d
 
 ## 📂 Contenido del Repositorio
 
-| Actividad | Descripción |  |
-| :--- | :--- | :--- |
-| **Taller Semana 1** | Implementación de un perceptrón simple desde cero. | Neurona 'vainilla' (bias, z y entregable en GitHub)  |
+| Actividad | Descripción | 
+| :--- | :--- |
+| **Taller Semana 1** | Neurona 'vainilla' (bias, z y entregable en GitHub)  |
 
 
 ---
