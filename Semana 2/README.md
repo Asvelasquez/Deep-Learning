@@ -1,4 +1,4 @@
-# Semana 1-2 – Red Neuronal Básica (Perceptrón)
+# Semana 2 - Red Neuronal Básica (Perceptrón)
 
 ## Objetivo
 
@@ -58,7 +58,7 @@ Con `b = -2.0`, la neurona replica correctamente el comportamiento de una compue
 
 ```
 Deep-Learning/
-└── week2/
-    ├── Semana1.ipynb   # Notebook principal
+└── Semana2/
+    ├── Ejercicio Semana 2.ipynb   # Notebook principal
     └── README.md       # Este archivo
 ```
