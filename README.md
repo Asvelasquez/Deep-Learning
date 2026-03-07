@@ -8,7 +8,7 @@ Este repositorio contiene una colección de prácticas, ejercicios y proyectos d
 
 | Actividad | Descripción | 
 | :--- | :--- |
-| **Taller Semana 1** | Neurona 'vainilla' (bias, z y entregable en GitHub)  |
+| **Actividad Semana 2** | Neurona 'vainilla' (bias, z y entregable en GitHub)  |
 
 
 ---
