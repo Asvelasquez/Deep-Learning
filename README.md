@@ -10,6 +10,6 @@ Este repositorio contiene una colección de prácticas, ejercicios y proyectos d
 | Actividad | Descripción | 
 | :--- | :--- |
 | **Actividad Semana 2** | Neurona 'vainilla' (bias, z y entregable en GitHub)  |
-
+| **Actividad Semana 3** | Implementación de Backpropagation y Funciones de Activación entregable en GitHub  |
 
 ---
